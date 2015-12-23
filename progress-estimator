@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "scale=4;100 - $(find . -type f -name "*.png" | wc -l) / 32.11" | bc
