@@ -1,4 +1,4 @@
-# Vector High Contrast Theme ![Initial Conversion Progress: 3%](https://img.shields.io/badge/Initial%20Conversion%20Progress-3%25-1CC0ED.svg)
+# Vector High Contrast Theme ![Initial Conversion Progress: 4%](https://img.shields.io/badge/Initial%20Conversion%20Progress-4%25-1CC0ED.svg)
 The goal of this project is to make a set of vector images to match the high contrast themes of OpenOffice and LibreOffice. This will allow rescaling of the icons for high resolutions displays.
 
 ## Why the high contrast theme?
